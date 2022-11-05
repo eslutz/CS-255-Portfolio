@@ -1,6 +1,9 @@
-# CS-255-Projects
+# CS-255-Portfolio
 
-Projects from CS-255  System Analysis and Design.
+Projects from CS-255 System Analysis and Design.
+
+- [Business Requirements Document](../Business%20Requirements%20Document.pdf)
+- [System Design Document](../System%20Design%20Document.pdf)
 
 ## Project Takeaways
 
@@ -23,9 +26,3 @@ I used the client’s answers from the interview transcript as the basis for all
 ### How do you approach designing software?  What techniques or strategies would you use in the future to analyze and design a system?
 
 I approach software design as a series of steps to be completed.  Each part of the design is broken down into separate tasks that I can complete and check off.  This provides a systematic approach to ensure that all criteria are met, and the design is completed.  Until presented with a process that works better for me, I will continue to use this same process in the future.
-
----
-
-[Business Requirements Document](../Business%20Requirements%20Document.pdf)
-
-[System Design Document](../System%20Design%20Document.pdf)
